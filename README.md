@@ -1,3 +1,3 @@
 # trying-git
-Trying git... Oh it changed again!
+Trying git... Oh it changed!
 Again!
